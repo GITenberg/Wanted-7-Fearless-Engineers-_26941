@@ -1,0 +1,32 @@
+_repo: Wanted-7-Fearless-Engineers-_26941
+_version: 0.1.0
+alternative_title: Wanted—Seven Fearless Engineers!
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tremaine, Frederick Orlin
+    aliases:
+    - Lorne, Warner Van
+    - Van Lorne, Warner
+    - Tremaine, F. Orlin
+    birthdate: 1899
+    deathdate: 1956
+    gutenberg_agent_id: '32349'
+    url: http://www.gutenberg.org/2009/agents/32349
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2008-10-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26941'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+title: Wanted—7 Fearless Engineers!
+url: http://www.gutenberg.org/ebooks/26941
